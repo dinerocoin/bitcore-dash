@@ -82,10 +82,10 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "bitcore-lib-dinero": "^0.13.20",
-    "bitcore-node-dinero": "~3.0.4",
-    "insight-api-dinero": "^0.4.5",
-    "insight-ui-dinero": "^0.4.3"
+    "bitcore-lib-dinero": "dinerocoin/bitcore-lib-dinero",
+    "bitcore-node-dinero": "dinerocoin/bitcore-node-dinero",
+    "insight-api-dinero": "dinerocoin/insight-api-dinero",
+    "insight-ui-dinero": "dinerocoin/insight-ui-dinero"
   },
   "license": "MIT",
   "devDependencies": {
